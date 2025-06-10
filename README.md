@@ -2,7 +2,7 @@
 
 Compiles, parses WebVTT files, segments and generates HLS playlists for them.
 
-[![CircleCI](https://circleci.com/gh/osk/node-webvtt.svg?style=svg)](https://circleci.com/gh/osk/node-webvtt)
+[![CircleCI](https://circleci.com/gh/androettop/node-webvtt.svg?style=svg)](https://circleci.com/gh/androettop/node-webvtt)
 
 ## Usage
 

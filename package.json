@@ -1,6 +1,6 @@
 {
   "name": "@androettop/node-webvtt",
-  "version": "1.9.5",
+  "version": "1.9.6",
   "description": "WebVTT parser, compiler, and segmenter with HLS support",
   "main": "index.js",
   "types": "types.d.ts",

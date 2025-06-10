@@ -38,7 +38,8 @@
   "files": [
     "/lib",
     "/bin",
-    "index.js"
+    "index.js",
+    "types.d.ts"
   ],
   "bin": {
     "webvtt-segment": "./bin/webvtt-segment.js"
